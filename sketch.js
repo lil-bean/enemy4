@@ -271,7 +271,7 @@ if(page == 7){
     text(chooseFrom, 207, 93);
     
 // "to"
-    var to = ["muscle", "bone", "retina", "neuron", "eardrum", "fingertip"
+    var to = ["muscle", "bone", "retina", "neuron", "eardrum", "fingertip",
               "neurotransmitter", "frontal lobe", "cornea", "hippocampus",
               "cochlea", "membrane", "synapse", "nerve", "chemoreceptor",
               "spinal cord", "amygdala"];
