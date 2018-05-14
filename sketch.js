@@ -6,8 +6,6 @@
 
 //---------------------------------------//
 
-// 5-part interactive piece 
-
 // variables 
 var page;
 var unfamiliar;
