@@ -267,7 +267,7 @@ if(page == 7){
     var from = ["server", "keyboard", "memory", "processor", "antenna", "cache", 
                 "battery", "screen", "sensor", "camera", "GPU", "hard drive", "radio wave", 
                 "frequency", "hotspot", "router", "RAM", "modem", "speaker", "transmitter", 
-                "microphone", "network"];
+                "microphone", "network",];
     var chooseFrom = random(from);
     fill(10);
     text(chooseFrom, 207, 93);
@@ -276,7 +276,7 @@ if(page == 7){
     var to = ["muscle", "bone", "retina", "neuron", "eardrum", "fingertip"
               "neurotransmitter", "frontal lobe", "cornea", "hippocampus",
               "cochlea", "membrane", "synapse", "nerve", "chemoreceptor",
-              "spinal cord", "amygdala"];
+              "spinal cord", "amygdala",];
     var chooseTo = random(to);
     fill(10);
     text(chooseTo, 207, 120);
@@ -284,7 +284,7 @@ if(page == 7){
     
 // "subject"
     var subject = ["did you see this?", "how are you?", "how are your parents?", "have you heard of this?", "are you okay?", 
-                   "do you remember this?", "are you safe?", "are you happy?", "when will you be back?"]
+                   "do you remember this?", "are you safe?", "are you happy?", "when will you be back?",]
     var chooseSubject = random(subject);
     fill(10);
     text(chooseSubject, 207, 156);
