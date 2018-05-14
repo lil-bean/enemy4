@@ -283,7 +283,8 @@ if(page == 7){
 
     
 // "subject"
-    var subject = ["did you see this?", "how are you?", "how are your parents?", "have you heard of this?", "are you okay?", "do you rememeber this?"]
+    var subject = ["did you see this?", "how are you?", "how are your parents?", "have you heard of this?", "are you okay?", 
+                   "do you remember this?", "are you safe?", "are you happy?", "when will you be back?"]
     var chooseSubject = random(subject);
     fill(10);
     text(chooseSubject, 207, 156);
